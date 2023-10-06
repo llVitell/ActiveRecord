@@ -1,4 +1,4 @@
-## Conceptos básicos de ActiveRecord
+ñ## Conceptos básicos de ActiveRecord
 
 Para esta actividad, hemos creado una base de datos de 30 clientes falsos, con nombres falsos, direcciones de correo electrónico falsas y fechas de nacimiento falsas 
 (cortesía de [Faker gem](https://github.com/faker-ruby/faker)) y escribirás varias consultas de ActiveRecord para extraer y/o actualizar subconjuntos de estos clientes.
